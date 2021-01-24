@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://www.facebook.com/nmdk99">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/facebook/facebook-official.svg" alt="Dang Khoa's Facebook Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Dang Khoa's Facebook Profile" height="30" width="30">
   </a>
 </p>
