@@ -8,5 +8,5 @@
   </a>
 </p>
 
-  Personal email: [nguyenminhdangkhoa9@gmail.com](mailto:nguyenminhdangkhoa9@gmail.com)\n
+  Personal email: [nguyenminhdangkhoa9@gmail.com](mailto:nguyenminhdangkhoa9@gmail.com)\
   Student email: [51800882@student.tdtu.edu.vn](mailto:51800882@student.tdtu.edu.vn)
