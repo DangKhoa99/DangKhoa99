@@ -25,7 +25,7 @@
 <h2>Education </h2>
 
 > **08/2018 - now** _Ho Chi Minh city_ \
-> 📚 Student of computer science at Ton Duc Thang University. 
+> 📚 Student of Computer Science at Ton Duc Thang University. 
 
 
 <!--
