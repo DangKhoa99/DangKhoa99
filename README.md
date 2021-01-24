@@ -15,9 +15,11 @@
 > Student email: [51800882@student.tdtu.edu.vn](mailto:51800882@student.tdtu.edu.vn)
 
 <h2>Skills: </h2>
-<p> Programing languages: Python, Java. </p>
-<!-- <p> Frameworks, Libraries: Tensorflow, Keras, Django, Flask, ReactJS, NodeJS </p> -->
-<p> Databases: MySQL. </p>
+
+> Programing languages: Python, Java.\
+> Databases: MySQL.
+
+<!-- Frameworks, Libraries: Tensorflow, Keras, Django, Flask, ReactJS, NodeJS\ -->
 
 <h2>Education: </h2>
 
