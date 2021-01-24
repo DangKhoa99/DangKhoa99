@@ -11,13 +11,13 @@
 > Student email: [51800882@student.tdtu.edu.vn](mailto:51800882@student.tdtu.edu.vn)
 
 <h2>Skills: </h2>
-> Programing languages: Python, Java. \
-<!--> Frameworks, Libraries: Tensorflow, Keras, Django, Flask, ReactJS, NodeJS \-->
-> Databases: MySQL.
+<p> Programing languages: Python, Java. </p>
+<!-- <p> Frameworks, Libraries: Tensorflow, Keras, Django, Flask, ReactJS, NodeJS </p> -->
+<p> Databases: MySQL. </p>
 
 <h2>Education: </h2>
-> **08/2018 - now** _Ho Chi Minh city_ \
-> 📚 Student of computer science at Ton Duc Thang University.
+<p> **08/2018 - now** _Ho Chi Minh city_ </p>
+<p> 📚 Student of computer science at Ton Duc Thang University. </p>
 
 
 <!--
