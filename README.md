@@ -5,15 +5,16 @@
 > Personal email: [nguyenminhdangkhoa9@gmail.com](mailto:nguyenminhdangkhoa9@gmail.com)\
 > Student email: [51800882@student.tdtu.edu.vn](mailto:51800882@student.tdtu.edu.vn)
 
-<p align="center">
+<!--<p align="center">
   <a href="https://www.facebook.com/nmdk99">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Dang Khoa's Facebook Profile" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/channel/UCrTsI2CDd4-fw57Wfkf1BPQ">
+ <!-- <a href="https://www.youtube.com/channel/UCrTsI2CDd4-fw57Wfkf1BPQ">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Dang Khoa's Youtube Channel" height="30" width="30">
   </a>
 </p>
+-->
 
 <h2>Skills </h2>
 
