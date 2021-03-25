@@ -18,7 +18,7 @@
 
 <h2>Skills </h2>
 
-> Programing languages: Python, Java.\
+> Programing languages: Python, Java, JS.\
 > Databases: MySQL.
 
 <!-- Frameworks, Libraries: Tensorflow, Keras, Django, Flask, ReactJS, NodeJS\ -->
