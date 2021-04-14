@@ -3,8 +3,8 @@
 </div>
 
 <!--<h2>Contact me </h2>
-
-<!--> Personal email: [nguyenminhdangkhoa9@gmail.com](mailto:nguyenminhdangkhoa9@gmail.com)\
+<!--
+> Personal email: [nguyenminhdangkhoa9@gmail.com](mailto:nguyenminhdangkhoa9@gmail.com)\
 > Student email: [51800882@student.tdtu.edu.vn](mailto:51800882@student.tdtu.edu.vn)
 
 <!--<p align="center">
