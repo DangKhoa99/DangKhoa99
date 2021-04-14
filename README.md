@@ -18,8 +18,8 @@
 </p>
 -->
 
-<h2>Languages and Tools </h2>
-
+<!--<h2>Languages and Tools </h2>
+<!--
 > Programing languages: Python, Java, JS.\
 > Databases: MySQL.
 
