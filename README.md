@@ -1,8 +1,10 @@
-# Hi, I'm Dang Khoa - @DangKhoa99
+<div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/DangKhoa99">Khoa</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-<h2>Contact me </h2>
+<!--<h2>Contact me </h2>
 
-> Personal email: [nguyenminhdangkhoa9@gmail.com](mailto:nguyenminhdangkhoa9@gmail.com)\
+<!--> Personal email: [nguyenminhdangkhoa9@gmail.com](mailto:nguyenminhdangkhoa9@gmail.com)\
 > Student email: [51800882@student.tdtu.edu.vn](mailto:51800882@student.tdtu.edu.vn)
 
 <!--<p align="center">
@@ -16,7 +18,7 @@
 </p>
 -->
 
-<h2>Skills </h2>
+<h2>Languages and Tools </h2>
 
 > Programing languages: Python, Java, JS.\
 > Databases: MySQL.
